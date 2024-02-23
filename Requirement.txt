@@ -1,0 +1,3 @@
+The code worked perfectly when features are different across the universe at a a date but here it breaks.
+----
+I do not need for EDA and datapreprocessing. Also, I want to use XBboost and LightGBM. No, I need help to solve the issue that I do not know how to build the algo when features values are the same across the universe for a date. Because the algo needs at each date to classify all 11 sectors as 1 (ouperformers) or 0 (underperformers) but should not classify them all the same. This means tweaking the code vy respect to what is commonly done for factor investing strategies for example.
